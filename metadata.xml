@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Life of Jesus Critically Examined</dc:title>
+      <dc:creator>David Friedrich Strauss (1808–1874)</dc:creator>
+      <dc:creator>George Eliot [Psued. of Marian Evans Cross (1819–1880)]</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2020-12-13</dc:publisher>
+      <dc:date>2020-12-13</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this book are available from the Internet Archive. Scans of the German original are available from Google Books.
+
+ </dc:rights>
+      <dc:subject>Jesus Christ -- Biography</dc:subject>
+      <dc:subject>Jesus Christ -- History of doctrines</dc:subject>
+      <dc:identifier>pg:64037</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
